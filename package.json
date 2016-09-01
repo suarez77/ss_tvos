@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/boffbowsh/ss_tvos.git"
+    "url": "git+ssh://git@github.com/suarez77/ss_tvos.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/boffbowsh/ss_tvos/issues"
+    "url": "https://github.com/suarez77/ss_tvos/issues"
   },
-  "homepage": "https://github.com/boffbowsh/ss_tvos#readme",
+  "homepage": "https://github.com/suarez77/ss_tvos#readme",
   "devDependencies": {
     "gulp-jshint": "^2.0.0",
     "jshint": "^2.8.0"
